@@ -1,0 +1,45 @@
+body {
+  /* font-family: "Montserrat", sans-serif; */
+  font-family: "Roboto", sans-serif;
+  /* font-family: "Sacramento", cursive; */
+  margin: 0;
+  padding: 0;
+}
+
+.colored-text {
+  color: #228b22;
+}
+
+.half-width {
+  width: 50%;
+  padding: 5%;
+  text-align: center;
+}
+
+.half-width img {
+  width: 50%;
+
+  /* text-align: center; */
+}
+
+.top-header-text,
+.top-paragraph {
+  margin-bottom: 3%;
+}
+
+.order-food-btn {
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(to right, #006400, #228b22);
+  padding: 1% 3%;
+  border: 1px solid #006400;
+  border-radius: 40px;
+  font-weight: 800;
+}
+
+.top-section {
+  display: flex;
+  /* background-image: linear-gradient(to right, #749374, #8dd48d); */
+  /* padding-top: 5%; */
+  background-image: url(/images/shapes/frame3.jpg);
+}
