@@ -17,12 +17,14 @@ body {
 .top-header-text {
   font-size: 1.5rem;
   line-height: 3rem;
+  color: rgb(0, 0, 0);
 }
 
 .top-paragraph {
   font-size: 1.25rem;
   line-height: 1.5rem;
   font-family: "Merriweather", serif;
+  color: rgba(0, 0, 0, 0.823);
 }
 
 .colored-text {
@@ -94,6 +96,7 @@ body {
   padding-left: 25%;
 
   font-size: 1.25rem;
+  color: rgba(0, 0, 0, 0.823);
 }
 
 .receipes {
@@ -126,6 +129,7 @@ body {
   text-align: justify;
   line-height: 1.5rem;
   font-size: 1.15rem;
+  color: rgba(0, 0, 0, 0.823);
 }
 
 /* about section */
@@ -152,6 +156,7 @@ body {
   text-align: justify;
   font-size: 1.25rem;
   line-height: 1.5rem;
+  color: rgba(0, 0, 0, 0.823);
 }
 
 .about {
