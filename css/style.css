@@ -112,7 +112,8 @@ body {
 
   border-radius: 8%;
 
-  box-shadow: 10px 10px 50px green;
+  background-color: rgba(0, 128, 0, 0.632);
+  box-shadow: 10px 10px 50px gray;
 }
 
 .recipe-item img {
@@ -123,6 +124,8 @@ body {
   text-align: center;
   padding: 10%;
   font-family: "Merriweather", serif;
+
+  color: antiquewhite;
 }
 
 .recipe-item-par {
@@ -147,6 +150,7 @@ body {
 
 .about-content h1 {
   padding-bottom: 4%;
+  color: rgba(0, 128, 0, 0.918);
 
   font-size: 2rem;
   font-weight: 800;
