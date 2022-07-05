@@ -8,6 +8,10 @@ body {
   /* background-image: url(images/shapes/frame2.jpg);
   background-position: left; */
 }
+* {
+  margin: 0;
+  padding: 0;
+}
 
 .colored-text {
   color: #228b22;
@@ -37,14 +41,14 @@ body {
 .top-section {
   display: flex;
 
-  background-image: url(/images/shapes/frame2.jpg);
+  background-image: url(../images/shapes/frame2.jpg);
   background-position: left;
 }
 
 /* receipe section */
 
 .middle {
-  background-image: url(/images/shapes/frame2.jpg);
+  background-image: url(../images/shapes/frame2.jpg);
   background-position: left;
 }
 
@@ -97,7 +101,7 @@ body {
 }
 
 .about {
-  background-image: url(/images/shapes/frame3.jpg);
+  background-image: url(../images/shapes/frame3.jpg);
   background-position: left;
 }
 
