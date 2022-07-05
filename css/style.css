@@ -33,8 +33,7 @@ body {
 
 .top-section {
   display: flex;
-  /* background-image: linear-gradient(to right, #749374, #8dd48d); */
-  /* padding-top: 5%; */
+
   background-image: url(/images/shapes/frame2.jpg);
   background-position: left;
 }
